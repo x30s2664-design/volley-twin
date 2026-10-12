@@ -1,5 +1,5 @@
 'use strict';
-const VERSION='20261012-block-space-lift-1';
+const VERSION='20261012-front-height-1';
 const PREFIX='volley-twin:'+self.registration.scope+':';
 const CACHE=PREFIX+VERSION;
 const asset=p=>new URL(p,self.registration.scope).href;
