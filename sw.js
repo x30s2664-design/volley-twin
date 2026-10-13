@@ -1,5 +1,5 @@
 'use strict';
-const VERSION='20261013-unlocked-scroll-1';
+const VERSION='20261013-large-bottom-side-1';
 const PREFIX='volley-twin:'+self.registration.scope+':';
 const CACHE=PREFIX+VERSION;
 const asset=p=>new URL(p,self.registration.scope).href;
